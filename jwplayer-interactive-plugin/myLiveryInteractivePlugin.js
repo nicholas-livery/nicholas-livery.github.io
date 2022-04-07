@@ -15,4 +15,4 @@ function myLiveryInteractivePluginFunction (playerInstance, pluginConfig, plugin
 
 const registerPlugin = window.jwplayerPluginJsonp || window.jwplayer().registerPlugin
 
-registerPlugin('myLiveryInteractivePlugin', '8.0', myLiveryInteractivePluginFunction2)
+registerPlugin('myLiveryInteractivePlugin', '8.0', myLiveryInteractivePluginFunction)
